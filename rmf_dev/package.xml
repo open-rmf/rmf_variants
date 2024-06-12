@@ -52,11 +52,8 @@
   <exec_depend>rmf_websocket</exec_depend>
 
   <!-- rmf_simulation repo -->
-  <exec_depend>rmf_building_sim_common</exec_depend>
-  <exec_depend>rmf_building_sim_gz_classic_plugins</exec_depend>
   <exec_depend>rmf_building_sim_gz_plugins</exec_depend>
   <exec_depend>rmf_robot_sim_common</exec_depend>
-  <exec_depend>rmf_robot_sim_gz_classic_plugins</exec_depend>
   <exec_depend>rmf_robot_sim_gz_plugins</exec_depend>
 
   <!-- rmf_task repo -->
